@@ -1,7 +1,7 @@
 # Module 4: Introduction to Git and GitHub
 
 ## Overview
-Being able to manage changes to your code and share it with others is one of the most important technical skills a programmer can learn. Unfortunately, a frightening number of people still email their code, have dozens of versions of the same file, and lack a system for backing up their code. This is both time consuming and error prone.
+TEESSttg able to manage changes to your code and share it with others is one of the most important technical skills a programmer can learn. Unfortunately, a frightening number of people still email their code, have dozens of versions of the same file, and lack a system for backing up their code. This is both time consuming and error prone.
 
 Luckily, there are wonderful tools for tracking changes to your code (git), and for facilitating collaboration (GitHub). Git and GitHub are the industry standards for these family of tasks which we'll refer to as **version control**.
 
